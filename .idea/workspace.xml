@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FileProcessing" targetName="FileProcessor" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="255a8104-ca99-4a25-86c4-4d9ed14d5aac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileProcessing.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FileProcessing.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formatting.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Formatting.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formatting.h" beforeDir="false" afterPath="$PROJECT_DIR$/Formatting.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Presidents.json" beforeDir="false" afterPath="$PROJECT_DIR$/Presidents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+=======
+    <list default="true" id="1925576f-adf6-491a-a542-bac9cb351944" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileProcessing.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FileProcessing.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formatting.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Formatting.cpp" afterDir="false" />
+>>>>>>> 234def4cbe715e04b42fff34033713e0cc4a89bf
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="23kKRaRJE5qu1jxyaS6OSDJBFUU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FileProcessor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FileProcessing" TARGET_NAME="FileProcessor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FileProcessing" RUN_TARGET_NAME="FileProcessor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="255a8104-ca99-4a25-86c4-4d9ed14d5aac" name="Changes" comment="" />
+      <created>1642272637528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+<<<<<<< HEAD
+      <updated>1642272637528</updated>
+      <workItem from="1642272639215" duration="336000" />
+      <workItem from="1642273318233" duration="3012000" />
+      <workItem from="1642301752342" duration="592000" />
+      <workItem from="1642641778582" duration="64000" />
+      <workItem from="1642642797597" duration="42000" />
+      <workItem from="1642733131547" duration="9000" />
+      <workItem from="1642814400584" duration="16480000" />
+      <workItem from="1642833826044" duration="376000" />
+      <workItem from="1642875141622" duration="746000" />
+      <workItem from="1642877876968" duration="153000" />
+      <workItem from="1642879877051" duration="55000" />
+      <workItem from="1642879951791" duration="34000" />
+      <workItem from="1642880001530" duration="3878000" />
+      <workItem from="1642895353803" duration="11000" />
+      <workItem from="1642895376692" duration="15000" />
+      <workItem from="1642897810860" duration="37000" />
+      <workItem from="1642898118165" duration="239000" />
+      <workItem from="1642898621959" duration="42000" />
+      <workItem from="1642898690714" duration="1842000" />
+      <workItem from="1642907405669" duration="23000" />
+      <workItem from="1642910012089" duration="8000" />
+      <workItem from="1642962507483" duration="21000" />
+      <workItem from="1642962575445" duration="25000" />
+      <workItem from="1642967496947" duration="3494000" />
+      <workItem from="1642972773699" duration="18000" />
+      <workItem from="1642973335286" duration="12826000" />
+      <workItem from="1642987422243" duration="239000" />
+      <workItem from="1642987706784" duration="277000" />
+      <workItem from="1642991524744" duration="55000" />
+      <workItem from="1642991638131" duration="13000" />
+=======
+      <updated>1642185488273</updated>
+      <workItem from="1642185490391" duration="258000" />
+      <workItem from="1642185814986" duration="52000" />
+      <workItem from="1642186230549" duration="251000" />
+      <workItem from="1642543160079" duration="2885000" />
+      <workItem from="1642614776028" duration="126000" />
+>>>>>>> 234def4cbe715e04b42fff34033713e0cc4a89bf
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
